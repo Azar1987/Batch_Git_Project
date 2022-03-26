@@ -2,8 +2,11 @@ package day0;
 
 public class First {
 
-    // TODO: works on this tomorrow
-    //add some codes
+    public static void main(String[] args) {
+
+        System.out.println("java");
+    }
+
 
     //extra line 1
     //extra line 2
